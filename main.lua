@@ -6,7 +6,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
          Animation = "Thủ khoa khối A00"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "Key System",
         Description = "CHECKPOINT",
         KeyLink = "",
@@ -47,3 +47,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
 
   })
+
