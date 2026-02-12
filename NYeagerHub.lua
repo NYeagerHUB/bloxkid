@@ -31,7 +31,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.1,0,0.2,0)
 ImageButton.Size = UDim2.new(0,45,0,45)
 ImageButton.Draggable = true
-ImageButton.Image = "http://www.roblox.com/asset/?id=115586121847174"
+ImageButton.Image = "http://www.roblox.com/asset/?id=135200979938579"
 
 local UICorner = Instance.new("UICorner")
 UICorner.CornerRadius = UDim.new(1,0)
@@ -227,3 +227,4 @@ Fluent:Notify({
     Content = "UI đã sẵn sàng",
     Duration = 3
 })
+
